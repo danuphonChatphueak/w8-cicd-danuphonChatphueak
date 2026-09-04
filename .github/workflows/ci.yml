@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   test:
-    name: Test on Node.js 20
+    name: Test on Node.js 24
     runs-on: ubuntu-latest
 
     steps:
